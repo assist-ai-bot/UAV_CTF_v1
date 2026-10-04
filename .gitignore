@@ -1,0 +1,3 @@
+# the capture is a Release asset, not a tracked file (300 MB > GitHub's 100 MB limit)
+*.cs8
+reference_clean_flight.json

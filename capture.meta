@@ -1,0 +1,7 @@
+{
+ "format": "cs8",
+ "sample_rate_hz": 960000,
+ "center_freq_hz": 915000000,
+ "channels": "IQ interleaved",
+ "note": "operator-supplied, unverified"
+}
